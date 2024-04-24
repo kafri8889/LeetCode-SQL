@@ -2,7 +2,12 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/1280.Students and Examinations.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/1393. Capital Gain Loss.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/1693. Daily Leads and Partners.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/1741. Find Total Time Spent by Each Employee.sql" dialect="SQLite" />
     <file url="file://$PROJECT_DIR$/1757.Recyclable and Low Fat Products.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/1795. Rearrange Products Table.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/2356. Number of Unique Subjects Taught by Each Teacher.sql" dialect="SQLite" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>
